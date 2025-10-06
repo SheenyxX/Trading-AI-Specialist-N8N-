@@ -24,6 +24,6 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run trading script
-        run: python main_n8n.py
+        run: python main.py
         env:
           N8N_WEBHOOK_URL: ${{ secrets.N8N_WEBHOOK_URL }}
