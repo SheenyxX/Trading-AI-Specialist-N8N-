@@ -27,3 +27,12 @@ jobs:
         run: python main.py
         env:
           N8N_WEBHOOK_URL: ${{ secrets.N8N_WEBHOOK_URL }}
+
+      - name: Commit updated trades.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main || true
+          git add trades.json
+          git diff --cached --quiet || git commit -m "Update trades.json on $(date)"
+          git push
