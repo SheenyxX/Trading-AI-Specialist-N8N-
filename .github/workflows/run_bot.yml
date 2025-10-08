@@ -24,6 +24,18 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run trading script
-        run: python main_n8n.py
+        run: python main.py
         env:
           N8N_WEBHOOK_URL: ${{ secrets.N8N_WEBHOOK_URL }}
+
+      - name: Commit updated trades.json
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "Auto Commit Bot"
+          git config --global user.email "bot@example.com"
+          git pull origin main || true
+          git add trades.json
+          git diff --cached --quiet || git commit -m "Update trades.json on $(date)"
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
+
