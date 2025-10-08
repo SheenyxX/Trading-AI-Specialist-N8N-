@@ -47,7 +47,7 @@
         "exit_time": null,
         "exit_reason": null,
         "refinements": 3,
-        "sent_to_n8n": true,
+        "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251002_133000_L"
     }
 }
