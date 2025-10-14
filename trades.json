@@ -3051,10 +3051,10 @@
         "tp1": 111498.34,
         "tp2": 109569.3,
         "signal_time": "2025-10-14T17:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-10-14T17:01:36.856890+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-14T17:25:51.796602+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251014_170000_S"
