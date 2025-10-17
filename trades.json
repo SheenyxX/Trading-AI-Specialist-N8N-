@@ -4649,10 +4649,10 @@
         "tp1": 106939.25,
         "tp2": 102500.0,
         "signal_time": "2025-10-17T04:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-17T16:01:46.043593+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251017_040000_S"
