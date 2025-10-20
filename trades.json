@@ -6638,10 +6638,10 @@
         "tp1": 112949.5,
         "tp2": 111993.2,
         "signal_time": "2025-10-20T07:30:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-20T09:32:30.709822+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251020_073000_L"
