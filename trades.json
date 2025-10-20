@@ -6655,10 +6655,10 @@
         "tp1": 111959.34,
         "tp2": 111993.2,
         "signal_time": "2025-10-20T12:15:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-20T14:32:04.182067+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251020_121500_L"
