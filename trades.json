@@ -4547,10 +4547,10 @@
         "tp1": 108093.71,
         "tp2": 102500.0,
         "signal_time": "2025-10-16T15:45:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-10-16T15:48:10.123930+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-20T06:44:55.072285+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251016_154500_S"
