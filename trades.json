@@ -7726,10 +7726,10 @@
         "tp1": 106666.2,
         "tp2": 106119.5,
         "signal_time": "2025-10-22T23:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-10-22T23:01:32.622721+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-23T02:15:41.904517+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251022_230000_S"
