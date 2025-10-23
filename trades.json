@@ -8134,10 +8134,10 @@
         "tp1": 110741.61,
         "tp2": 111695.3,
         "signal_time": "2025-10-23T16:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-23T18:53:14.877448+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251023_164500_L"
