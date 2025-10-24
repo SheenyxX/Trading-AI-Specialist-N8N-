@@ -8576,10 +8576,10 @@
         "tp1": 111768.24,
         "tp2": 111695.3,
         "signal_time": "2025-10-24T13:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-10-24T13:04:00.465804+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-24T13:49:32.294183+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251024_130000_L"
