@@ -8372,10 +8372,10 @@
         "tp1": 111432.63,
         "tp2": 113975.0,
         "signal_time": "2025-10-24T04:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-24T16:01:36.188398+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251024_040000_L"
@@ -8651,5 +8651,22 @@
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251024_154500_S"
+    },
+    "BTCUSDT_15m_20251024_160000_S": {
+        "symbol": "BTC/USDT",
+        "timeframe": "15m",
+        "type": "Short",
+        "entry": 110696.73,
+        "sl": 111058.07,
+        "tp1": 109714.85,
+        "tp2": 107465.9,
+        "signal_time": "2025-10-24T16:00:00+00:00",
+        "status": "pending",
+        "entry_time": null,
+        "exit_time": null,
+        "exit_reason": null,
+        "refinements": 1,
+        "sent_to_n8n": false,
+        "id": "BTCUSDT_15m_20251024_160000_S"
     }
 }
