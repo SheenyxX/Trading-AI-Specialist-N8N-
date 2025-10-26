@@ -9647,10 +9647,10 @@
         "tp1": 114475.02,
         "tp2": 113975.0,
         "signal_time": "2025-10-26T13:15:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-26T15:26:42.550219+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251026_131500_L"
