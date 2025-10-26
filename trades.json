@@ -9664,10 +9664,10 @@
         "tp1": 114889.58,
         "tp2": 113975.0,
         "signal_time": "2025-10-26T16:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-26T18:01:42.202349+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251026_160000_L"
