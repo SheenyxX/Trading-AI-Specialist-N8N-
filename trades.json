@@ -9732,10 +9732,10 @@
         "tp1": 118092.85,
         "tp2": 115968.8,
         "signal_time": "2025-10-27T08:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-27T20:01:46.364945+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251027_080000_L"
