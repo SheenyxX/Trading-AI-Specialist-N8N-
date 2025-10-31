@@ -11228,10 +11228,10 @@
         "tp1": 110841.93,
         "tp2": 111929.7,
         "signal_time": "2025-10-31T04:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-10-31T06:55:51.427653+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251031_044500_L"
