@@ -11984,21 +11984,21 @@
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251101_044500_L"
     },
-    "BTCUSDT_15m_20251101_073000_L": {
+    "BTCUSDT_15m_20251101_074500_L": {
         "symbol": "BTC/USDT",
         "timeframe": "15m",
         "type": "Long",
-        "entry": 109938.95,
-        "sl": 109579.24,
-        "tp1": 110512.18,
+        "entry": 109939.91,
+        "sl": 109582.1,
+        "tp1": 110375.66,
         "tp2": 111159.1,
-        "signal_time": "2025-11-01T07:30:00+00:00",
+        "signal_time": "2025-11-01T07:45:00+00:00",
         "status": "pending",
         "entry_time": null,
         "exit_time": null,
         "exit_reason": null,
-        "refinements": 2,
+        "refinements": 3,
         "sent_to_n8n": false,
-        "id": "BTCUSDT_15m_20251101_073000_L"
+        "id": "BTCUSDT_15m_20251101_074500_L"
     }
 }
