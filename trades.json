@@ -12826,10 +12826,10 @@
         "tp1": 109846.51,
         "tp2": 108631.0,
         "signal_time": "2025-11-02T16:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-02T18:48:22.927467+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251102_164500_S"
