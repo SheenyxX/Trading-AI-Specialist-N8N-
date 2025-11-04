@@ -13336,10 +13336,10 @@
         "tp1": 104954.68,
         "tp2": 105306.1,
         "signal_time": "2025-11-04T05:30:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-11-04T05:32:03.050102+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-04T05:47:45.060191+00:00",
+        "exit_reason": "Take Profit hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251104_053000_S"
