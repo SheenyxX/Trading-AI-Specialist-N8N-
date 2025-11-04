@@ -13081,10 +13081,10 @@
         "tp1": 103676.56,
         "tp2": 103500.0,
         "signal_time": "2025-11-03T16:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-04T04:11:00.474880+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251103_160000_S"
