@@ -13710,10 +13710,10 @@
         "tp1": 105134.58,
         "tp2": 111159.1,
         "signal_time": "2025-11-05T16:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-05T18:54:25.252256+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251105_164500_L"
