@@ -14203,10 +14203,10 @@
         "tp1": 99708.71,
         "tp2": 98935.0,
         "signal_time": "2025-11-06T16:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-06T18:56:41.372801+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251106_164500_S"
