@@ -14305,10 +14305,10 @@
         "tp1": 100379.5,
         "tp2": 98935.0,
         "signal_time": "2025-11-06T23:30:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-07T02:20:33.690938+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 2,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251106_233000_S"
