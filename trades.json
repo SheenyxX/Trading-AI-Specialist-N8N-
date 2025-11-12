@@ -16948,21 +16948,21 @@
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251112_193000_S"
     },
-    "BTCUSDT_15m_20251112_220000_S": {
+    "BTCUSDT_15m_20251112_223000_S": {
         "symbol": "BTC/USDT",
         "timeframe": "15m",
         "type": "Short",
-        "entry": 102398.17,
-        "sl": 102841.38,
-        "tp1": 100491.26,
+        "entry": 102323.36,
+        "sl": 102762.54,
+        "tp1": 100367.58,
         "tp2": 101464.8,
-        "signal_time": "2025-11-12T22:00:00+00:00",
+        "signal_time": "2025-11-12T22:30:00+00:00",
         "status": "pending",
         "entry_time": null,
         "exit_time": null,
         "exit_reason": null,
-        "refinements": 2,
+        "refinements": 3,
         "sent_to_n8n": false,
-        "id": "BTCUSDT_15m_20251112_220000_S"
+        "id": "BTCUSDT_15m_20251112_223000_S"
     }
 }
