@@ -17331,10 +17331,10 @@
         "tp1": 101004.0,
         "tp2": 100811.1,
         "signal_time": "2025-11-13T15:45:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-11-13T15:48:45.324803+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-13T17:10:43.599822+00:00",
+        "exit_reason": "Take Profit hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251113_154500_S"
