@@ -16991,8 +16991,8 @@
         "tp1": 100418.39,
         "tp2": 99264.6,
         "signal_time": "2025-11-13T04:00:00+00:00",
-        "status": "pending",
-        "entry_time": null,
+        "status": "open",
+        "entry_time": "2025-11-13T06:14:37.069349+00:00",
         "exit_time": null,
         "exit_reason": null,
         "refinements": 1,
@@ -17049,5 +17049,22 @@
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251113_044500_S"
+    },
+    "BTCUSDT_15m_20251113_060000_L": {
+        "symbol": "BTC/USDT",
+        "timeframe": "15m",
+        "type": "Long",
+        "entry": 102256.23,
+        "sl": 101945.29,
+        "tp1": 103234.24,
+        "tp2": 104082.1,
+        "signal_time": "2025-11-13T06:00:00+00:00",
+        "status": "open",
+        "entry_time": "2025-11-13T06:14:37.555680+00:00",
+        "exit_time": null,
+        "exit_reason": null,
+        "refinements": 1,
+        "sent_to_n8n": false,
+        "id": "BTCUSDT_15m_20251113_060000_L"
     }
 }
