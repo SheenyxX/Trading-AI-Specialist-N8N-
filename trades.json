@@ -17382,10 +17382,10 @@
         "tp1": 98387.99,
         "tp2": 99264.6,
         "signal_time": "2025-11-14T03:30:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-11-14T03:31:31.987511+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-14T03:59:39.261908+00:00",
+        "exit_reason": "Take Profit hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251114_033000_S"
