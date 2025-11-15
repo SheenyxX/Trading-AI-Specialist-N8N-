@@ -17416,10 +17416,10 @@
         "tp1": 96135.69,
         "tp2": 104054.3,
         "signal_time": "2025-11-15T04:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-15T06:50:56.330359+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251115_044500_L"
