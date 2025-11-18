@@ -19048,10 +19048,10 @@
         "tp1": 94785.04,
         "tp2": 96033.1,
         "signal_time": "2025-11-18T19:15:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-18T21:46:04.497055+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251118_191500_L"
