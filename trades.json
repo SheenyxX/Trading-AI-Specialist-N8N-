@@ -19405,10 +19405,10 @@
         "tp1": 88581.28,
         "tp2": 89290.7,
         "signal_time": "2025-11-19T16:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-19T18:52:45.107835+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251119_164500_S"
