@@ -19133,10 +19133,10 @@
         "tp1": 91018.92,
         "tp2": 89290.7,
         "signal_time": "2025-11-19T04:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-19T06:55:59.495728+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251119_044500_S"
