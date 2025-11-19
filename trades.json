@@ -19106,5 +19106,22 @@
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251118_230000_L"
+    },
+    "BTCUSDT_15m_20251119_034500_S": {
+        "symbol": "BTC/USDT",
+        "timeframe": "15m",
+        "type": "Short",
+        "entry": 92497.62,
+        "sl": 92786.71,
+        "tp1": 91717.83,
+        "tp2": 89290.7,
+        "signal_time": "2025-11-19T03:45:00+00:00",
+        "status": "open",
+        "entry_time": "2025-11-19T03:58:31.040381+00:00",
+        "exit_time": null,
+        "exit_reason": null,
+        "refinements": 1,
+        "sent_to_n8n": false,
+        "id": "BTCUSDT_15m_20251119_034500_S"
     }
 }
