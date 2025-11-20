@@ -19626,10 +19626,10 @@
         "tp1": 89023.13,
         "tp2": 89290.7,
         "signal_time": "2025-11-20T16:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-20T18:01:18.553671+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251120_160000_S"
