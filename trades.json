@@ -20765,10 +20765,10 @@
         "tp1": 88919.75,
         "tp2": 93147.4,
         "signal_time": "2025-11-23T23:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-11-23T23:01:21.166648+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-23T23:45:49.197206+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251123_230000_L"
