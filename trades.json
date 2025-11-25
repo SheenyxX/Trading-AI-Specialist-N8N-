@@ -21598,10 +21598,10 @@
         "tp1": 86836.5,
         "tp2": 85276.4,
         "signal_time": "2025-11-25T08:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-25T10:53:20.967683+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251125_084500_S"
