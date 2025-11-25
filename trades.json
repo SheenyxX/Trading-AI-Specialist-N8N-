@@ -21513,10 +21513,10 @@
         "tp1": 88505.74,
         "tp2": 93147.4,
         "signal_time": "2025-11-25T04:45:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-11-25T04:51:24.368498+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-25T07:46:20.580894+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251125_044500_L"
