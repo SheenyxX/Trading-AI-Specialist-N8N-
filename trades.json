@@ -23689,10 +23689,10 @@
         "tp1": 90333.02,
         "tp2": 90203.0,
         "signal_time": "2025-11-29T09:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-29T11:01:20.209209+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251129_090000_S"
