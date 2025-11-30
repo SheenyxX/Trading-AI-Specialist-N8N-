@@ -23621,10 +23621,10 @@
         "tp1": 90616.92,
         "tp2": 86310.1,
         "signal_time": "2025-11-29T02:15:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-11-29T02:19:51.575803+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-11-30T09:46:11.938770+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 2,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251129_021500_S"
