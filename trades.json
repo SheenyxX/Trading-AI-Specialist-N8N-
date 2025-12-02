@@ -24896,10 +24896,10 @@
         "tp1": 84637.64,
         "tp2": 80646.7,
         "signal_time": "2025-12-02T08:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-02T10:52:44.291815+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-02T14:11:06.337692+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251202_080000_S"
