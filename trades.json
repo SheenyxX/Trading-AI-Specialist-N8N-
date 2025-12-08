@@ -27820,10 +27820,10 @@
         "tp1": 91782.78,
         "tp2": 93955.2,
         "signal_time": "2025-12-08T05:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-08T07:14:37.400630+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251208_050000_L"
