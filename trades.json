@@ -28184,5 +28184,39 @@
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251209_054500_S"
+    },
+    "BTCUSDT_15m_20251209_061500_S": {
+        "symbol": "BTC/USDT",
+        "timeframe": "15m",
+        "type": "Short",
+        "entry": 90311.82,
+        "sl": 90630.1,
+        "tp1": 89505.81,
+        "tp2": 89619.7,
+        "signal_time": "2025-12-09T06:15:00+00:00",
+        "status": "open",
+        "entry_time": "2025-12-09T06:15:20.955400+00:00",
+        "exit_time": null,
+        "exit_reason": null,
+        "refinements": 1,
+        "sent_to_n8n": false,
+        "id": "BTCUSDT_15m_20251209_061500_S"
+    },
+    "BTCUSDT_1h_20251209_060000_S": {
+        "symbol": "BTC/USDT",
+        "timeframe": "1h",
+        "type": "Short",
+        "entry": 90463.67,
+        "sl": 90744.57,
+        "tp1": 89882.93,
+        "tp2": 83827.0,
+        "signal_time": "2025-12-09T06:00:00+00:00",
+        "status": "open",
+        "entry_time": "2025-12-09T06:15:20.955400+00:00",
+        "exit_time": null,
+        "exit_reason": null,
+        "refinements": 1,
+        "sent_to_n8n": false,
+        "id": "BTCUSDT_1h_20251209_060000_S"
     }
 }
