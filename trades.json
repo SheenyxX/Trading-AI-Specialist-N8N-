@@ -28806,10 +28806,10 @@
         "tp1": 93173.27,
         "tp2": 93955.2,
         "signal_time": "2025-12-10T10:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-10T10:01:39.754198+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-10T10:54:24.014839+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251210_100000_L"
