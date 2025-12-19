@@ -32580,10 +32580,10 @@
         "tp1": 89424.28,
         "tp2": 89477.0,
         "signal_time": "2025-12-19T11:30:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-19T13:43:26.708712+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251219_113000_L"
