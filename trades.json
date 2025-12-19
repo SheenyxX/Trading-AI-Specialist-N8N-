@@ -32478,10 +32478,10 @@
         "tp1": 84243.34,
         "tp2": 85147.5,
         "signal_time": "2025-12-19T00:30:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-19T02:30:18.853977+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251219_003000_S"
