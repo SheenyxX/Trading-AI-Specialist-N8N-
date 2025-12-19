@@ -32971,12 +32971,29 @@
         "tp1": 88506.06,
         "tp2": 88175.0,
         "signal_time": "2025-12-19T23:30:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-19T23:38:40.747000+00:00",
+        "exit_time": "2025-12-19T23:46:46.690876+00:00",
+        "exit_reason": "Take Profit hit",
+        "refinements": 1,
+        "sent_to_n8n": false,
+        "id": "BTCUSDT_15m_20251219_233000_L"
+    },
+    "BTCUSDT_15m_20251219_234500_L": {
+        "symbol": "BTC/USDT",
+        "timeframe": "15m",
+        "type": "Long",
+        "entry": 87922.85,
+        "sl": 87623.42,
+        "tp1": 88577.31,
+        "tp2": 89477.0,
+        "signal_time": "2025-12-19T23:45:00+00:00",
+        "status": "open",
+        "entry_time": "2025-12-19T23:46:47.148615+00:00",
         "exit_time": null,
         "exit_reason": null,
         "refinements": 1,
         "sent_to_n8n": false,
-        "id": "BTCUSDT_15m_20251219_233000_L"
+        "id": "BTCUSDT_15m_20251219_234500_L"
     }
 }
