@@ -34484,10 +34484,10 @@
         "tp1": 89027.61,
         "tp2": 89076.4,
         "signal_time": "2025-12-22T03:45:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-22T03:58:43.781473+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-22T07:14:47.846169+00:00",
+        "exit_reason": "Take Profit hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251222_034500_L"
