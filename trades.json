@@ -34535,10 +34535,10 @@
         "tp1": 89144.25,
         "tp2": 89076.4,
         "signal_time": "2025-12-22T05:30:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-22T07:34:52.575152+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251222_053000_L"
