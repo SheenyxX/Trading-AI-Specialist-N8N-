@@ -33413,10 +33413,10 @@
         "tp1": 88867.19,
         "tp2": 90358.5,
         "signal_time": "2025-12-20T20:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-21T02:51:35.111484+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-23T06:53:00.849509+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251220_200000_L"
