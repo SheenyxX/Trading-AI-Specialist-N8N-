@@ -34858,10 +34858,10 @@
         "tp1": 87367.6,
         "tp2": 87803.3,
         "signal_time": "2025-12-23T05:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-23T07:14:09.349420+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251223_050000_S"
