@@ -35504,10 +35504,10 @@
         "tp1": 86833.92,
         "tp2": 85147.5,
         "signal_time": "2025-12-24T00:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-24T12:17:22.663356+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251224_000000_S"
