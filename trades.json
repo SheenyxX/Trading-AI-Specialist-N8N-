@@ -36362,23 +36362,6 @@
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251225_114500_S"
     },
-    "BTCUSDT_15m_20251225_121500_S": {
-        "symbol": "BTC/USDT",
-        "timeframe": "15m",
-        "type": "Short",
-        "entry": 87577.87,
-        "sl": 87851.41,
-        "tp1": 87376.97,
-        "tp2": 86602.5,
-        "signal_time": "2025-12-25T12:15:00+00:00",
-        "status": "pending",
-        "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
-        "refinements": 1,
-        "sent_to_n8n": false,
-        "id": "BTCUSDT_15m_20251225_121500_S"
-    },
     "BTCUSDT_1h_20251225_120000_S": {
         "symbol": "BTC/USDT",
         "timeframe": "1h",
@@ -36395,5 +36378,22 @@
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251225_120000_S"
+    },
+    "BTCUSDT_15m_20251225_130000_S": {
+        "symbol": "BTC/USDT",
+        "timeframe": "15m",
+        "type": "Short",
+        "entry": 87576.62,
+        "sl": 87848.29,
+        "tp1": 87443.97,
+        "tp2": 86602.5,
+        "signal_time": "2025-12-25T13:00:00+00:00",
+        "status": "open",
+        "entry_time": "2025-12-25T13:05:45.504633+00:00",
+        "exit_time": null,
+        "exit_reason": null,
+        "refinements": 2,
+        "sent_to_n8n": false,
+        "id": "BTCUSDT_15m_20251225_130000_S"
     }
 }
