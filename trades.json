@@ -36711,10 +36711,10 @@
         "tp1": 89382.76,
         "tp2": 89076.4,
         "signal_time": "2025-12-26T03:45:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-26T03:47:59.866780+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-26T06:15:20.593812+00:00",
+        "exit_reason": "Take Profit hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251226_034500_L"
