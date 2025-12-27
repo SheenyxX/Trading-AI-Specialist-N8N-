@@ -37102,10 +37102,10 @@
         "tp1": 86965.19,
         "tp2": 87259.9,
         "signal_time": "2025-12-27T00:30:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-27T03:43:03.835609+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251227_003000_S"
