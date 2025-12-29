@@ -38428,10 +38428,10 @@
         "tp1": 86491.51,
         "tp2": 86895.0,
         "signal_time": "2025-12-29T20:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-29T22:49:35.596304+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251229_204500_S"
