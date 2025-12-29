@@ -38309,10 +38309,10 @@
         "tp1": 86813.99,
         "tp2": 87444.4,
         "signal_time": "2025-12-29T16:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-29T18:46:32.920097+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251229_164500_S"
