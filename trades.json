@@ -38156,10 +38156,10 @@
         "tp1": 91595.16,
         "tp2": 90585.7,
         "signal_time": "2025-12-29T05:15:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-29T07:16:28.361775+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251229_051500_L"
