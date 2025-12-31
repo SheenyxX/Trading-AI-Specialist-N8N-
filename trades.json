@@ -38819,10 +38819,10 @@
         "tp1": 88639.98,
         "tp2": 89557.9,
         "signal_time": "2025-12-30T22:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-30T22:50:03.437404+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-31T16:39:12.540177+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251230_220000_L"
@@ -38887,10 +38887,10 @@
         "tp1": 88825.26,
         "tp2": 89557.9,
         "signal_time": "2025-12-30T23:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-30T23:47:19.060063+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-31T16:39:12.540177+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20251230_230000_L"
@@ -38972,10 +38972,10 @@
         "tp1": 88416.24,
         "tp2": 90585.7,
         "signal_time": "2025-12-31T00:00:00+00:00",
-        "status": "open",
+        "status": "closed",
         "entry_time": "2025-12-31T15:32:15.597071+00:00",
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2025-12-31T16:39:12.540177+00:00",
+        "exit_reason": "Stop Loss hit",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_4h_20251231_000000_L"
@@ -39337,21 +39337,21 @@
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20251231_154500_S"
     },
-    "BTCUSDT_15m_20251231_160000_S": {
+    "BTCUSDT_15m_20251231_163000_S": {
         "symbol": "BTC/USDT",
         "timeframe": "15m",
         "type": "Short",
-        "entry": 88548.39,
-        "sl": 88829.55,
-        "tp1": 87743.91,
+        "entry": 88479.86,
+        "sl": 88773.4,
+        "tp1": 87448.8,
         "tp2": 87444.4,
-        "signal_time": "2025-12-31T16:00:00+00:00",
+        "signal_time": "2025-12-31T16:30:00+00:00",
         "status": "pending",
         "entry_time": null,
         "exit_time": null,
         "exit_reason": null,
-        "refinements": 1,
+        "refinements": 2,
         "sent_to_n8n": false,
-        "id": "BTCUSDT_15m_20251231_160000_S"
+        "id": "BTCUSDT_15m_20251231_163000_S"
     }
 }
