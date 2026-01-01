@@ -39958,10 +39958,10 @@
         "tp1": 88540.68,
         "tp2": 89199.5,
         "signal_time": "2026-01-01T20:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2026-01-01T22:50:15.318025+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20260101_204500_L"
