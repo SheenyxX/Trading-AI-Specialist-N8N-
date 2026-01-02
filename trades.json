@@ -40441,5 +40441,22 @@
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20260102_220000_L"
+    },
+    "BTCUSDT_15m_20260102_223000_L": {
+        "symbol": "BTC/USDT",
+        "timeframe": "15m",
+        "type": "Long",
+        "entry": 89812.14,
+        "sl": 89497.59,
+        "tp1": 90566.87,
+        "tp2": 90397.9,
+        "signal_time": "2026-01-02T22:30:00+00:00",
+        "status": "open",
+        "entry_time": "2026-01-02T22:34:30.091796+00:00",
+        "exit_time": null,
+        "exit_reason": null,
+        "refinements": 1,
+        "sent_to_n8n": false,
+        "id": "BTCUSDT_15m_20260102_223000_L"
     }
 }
