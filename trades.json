@@ -40128,10 +40128,10 @@
         "tp1": 89543.02,
         "tp2": 89199.5,
         "signal_time": "2026-01-02T08:45:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2026-01-02T10:51:02.486881+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 3,
         "sent_to_n8n": false,
         "id": "BTCUSDT_15m_20260102_084500_L"
