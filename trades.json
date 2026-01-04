@@ -40774,10 +40774,10 @@
         "tp1": 90824.82,
         "tp2": 90358.5,
         "signal_time": "2026-01-03T13:00:00+00:00",
-        "status": "pending",
+        "status": "expired",
         "entry_time": null,
-        "exit_time": null,
-        "exit_reason": null,
+        "exit_time": "2026-01-04T03:02:09.250534+00:00",
+        "exit_reason": "Signal expired",
         "refinements": 1,
         "sent_to_n8n": false,
         "id": "BTCUSDT_1h_20260103_130000_L"
